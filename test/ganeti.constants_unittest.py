@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python2
 #
 
 # Copyright (C) 2006, 2007, 2008 Google Inc.
